@@ -5,3 +5,6 @@ function asdf(x: number) {
 }
 
 console.log(asdf(5));
+
+
+require('./maybe');
